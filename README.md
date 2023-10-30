@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Cury (Guigo)</h1>
+
 - 🔭 I’m currently working on [Stackspot](https://app.stackspot.com/pt/home)
+
 - 📫 How to reach me **rodrigo.baptista@zup.com.br**
+
 - 📄 Know about my experiences [rodrigocury.dev.br](rodrigocury.dev.br)
+
 - ⚡ Fun fact **I'm a Beatboxer, a bad one!**
+
 - 📖 I'm studying Go
 
 <h3 align="left">Connect with me:</h3>
